@@ -1,8 +1,7 @@
-## Hello World! I'am Meoww Developer
+## Hi There, welcome to Meoww Developer
 
 ![Sem's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowwdeveloper&show_icons=true&theme=midnight-purple)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=meowwdeveloper&theme=midnight-purple)
 
 <!--
 **MeowwDeveloper/meowwdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
